@@ -1,2 +1,6 @@
 webapp:
  numbersOfReplicas: 4
+
+repoName: richardchesterwood
+
+development: false
